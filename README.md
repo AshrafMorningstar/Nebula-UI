@@ -58,3 +58,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Initial beta release.
 
 - Added glassmorphism examples.
+
+- Stable release 1.0.
